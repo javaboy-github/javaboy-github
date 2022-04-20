@@ -20,11 +20,11 @@
 - use blender well
 
 ## I'm here! 🥳
-- (Twitter)[https://twitter.com/TwinbornBoat217]
-- (Reddit)[https://www.reddit.com/user/tokei12]
-- (Open SEA)[https://opensea.io/tokei1202]
-- (My discord server)[https://discord.gg/4kHXPVz6RM]
-- (My home page)[https://javaboy.vercel.app]
+- [Twitter](https://twitter.com/TwinbornBoat217)
+- [Reddit](https://www.reddit.com/user/tokei12)
+- [Open SEA](https://opensea.io/tokei1202)
+- [My discord server](https://discord.gg/4kHXPVz6RM)
+- [My home page])https://javaboy.vercel.app)
 
 <!--
 **javaboy-github/javaboy-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,9 @@
 # Hellooooooooooooooo!😜
+
+![javaboy](https://user-images.githubusercontent.com/75339009/164482788-bfce8ccb-e1df-46a9-932f-cf00c4f6607a.gif)
+
+The gif was made by me. I'm learning blender.
+
 ## Who am I?😨
 - I'm Japanese junior high school student.
 - I'm fourteen years old now.
